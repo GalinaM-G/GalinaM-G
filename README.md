@@ -15,7 +15,5 @@
 <a href="https://instagram.com/galina_m_dev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="galina_m_dev" height="30" width="40" /></a>
 </p>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=galinam-g&show_icons=true&locale=en&layout=compact" alt="galinam-g" /></p>
 
